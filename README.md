@@ -41,6 +41,11 @@ The system checks whether a driver has consumed alcohol before allowing passage 
 5. Data can be logged for monitoring
 
 ---
+## 💻 Code
+
+The system is implemented using ESP32. It reads analog values from the MQ-3 sensor and controls a servo motor based on alcohol detection threshold.
+
+Main file: `code/main.ino`
 
 ## 🚧 Challenges
 
