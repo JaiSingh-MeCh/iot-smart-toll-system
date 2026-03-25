@@ -42,18 +42,6 @@ The system checks whether a driver has consumed alcohol before allowing passage 
 
 ---
 
-## 🔌 Circuit Diagram
-
-(Add your circuit image here)
-
----
-
-## 💻 Code
-
-(Add your Arduino / ESP32 code here)
-
----
-
 ## 🚧 Challenges
 
 * Sensor calibration for accurate detection
@@ -71,6 +59,6 @@ The system checks whether a driver has consumed alcohol before allowing passage 
 ---
 
 ## 👨‍💻 Author
-    Jai Singh
+    
 Jai Singh
 Mechanical Engineering | IoT & Embedded Systems Enthusiast
